@@ -1,0 +1,36 @@
+.header {
+  text-align: center;
+}
+
+body{
+  background-image: linear-gradient(black, red);
+  margin: auto;
+  padding: 1em;
+  
+ 
+  
+}
+div {
+  margin: auto;
+  text-align: center;
+}
+.logo{
+  border-radius: 50%;
+  width: 300px;
+  margin: auto;
+}
+
+.text{
+  color: cornsilk;
+}
+.hand {
+  width: 180px;
+  margin: auto;
+  padding: 0em;
+
+}
+.card{
+  margin: auto;
+}
+
+
